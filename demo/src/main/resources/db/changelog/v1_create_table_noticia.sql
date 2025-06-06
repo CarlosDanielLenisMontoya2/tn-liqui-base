@@ -5,5 +5,7 @@ CREATE TABLE noticia (
 
          Contenido TEXT,
 
-         Categoria VARCHAR(50)
+         Categoria VARCHAR(50),
+
+         descripcion varchar(999)
 );
