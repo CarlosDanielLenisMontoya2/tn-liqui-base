@@ -1,4 +1,4 @@
-CREATE TABLE autor (
+CREATE TABLE noticia (
          id SERIAL PRIMARY KEY,
 
          Titulo VARCHAR(150),
